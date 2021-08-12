@@ -1,0 +1,10 @@
+li {
+    background: green;
+    padding: 5px;
+    color: white;
+    margin: 2px;
+    width: 300px;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
